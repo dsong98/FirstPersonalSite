@@ -1,6 +1,6 @@
 
 h1 {
-	color: pink;
+	color: rgb(138, 151, 228);
 }
 
 h2 {
@@ -10,4 +10,12 @@ h2 {
 
 .link {
 	color: skyblue;
+}
+
+.bgPink {
+	background-color: pink;
+}
+
+.bgPurple {
+	background-color: purple;
 }
