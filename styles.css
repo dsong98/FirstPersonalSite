@@ -1,21 +1,42 @@
-
 h1 {
-	color: rgb(138, 151, 228);
+  color: rgb(138, 151, 228);
 }
 
 h2 {
-	color: #00009c;
+  color: #00009c;
 }
 
-
-.link {
-	color: skyblue;
+link {
+  color: skyblue;
 }
 
 .bgPink {
-	background-color: pink;
+  background-color: pink;
 }
 
 .bgPurple {
-	background-color: purple;
+  background-color: purple;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.centertext {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.align-items-center {
+  -ms-flex-align: center!important;
+  align-items: center!important;
+  justify-content: center;
+}
+.d-flex {
+  display: -ms-flexbox!important;
+  display: flex!important;
 }
