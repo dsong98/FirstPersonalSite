@@ -25,18 +25,30 @@ img {
   width: 40%;
 }
 
+.fit-image {
+  width: 100%;
+}
+
 .centertext {
-	margin-left:auto;
-	margin-right:auto;
-	display:block;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.dukecontainer1 {
+  background-color: #9dc8e4
+}
+
+.dukecontainer2 {
+  background-color: #b3c7dc
 }
 
 .align-items-center {
-  -ms-flex-align: center!important;
-  align-items: center!important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
   justify-content: center;
 }
 .d-flex {
-  display: -ms-flexbox!important;
-  display: flex!important;
+  display: -ms-flexbox !important;
+  display: flex !important;
 }
