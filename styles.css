@@ -1,12 +1,4 @@
-h1 {
-  color: rgb(138, 151, 228);
-}
-
-h2 {
-  color: #00009c;
-}
-
-link {
+ink {
   color: skyblue;
 }
 
@@ -35,12 +27,12 @@ img {
   display: block;
 }
 
-.dukecontainer1 {
+.container1 {
   background-color: #9dc8e4
 }
 
-.dukecontainer2 {
-  background-color: #b3c7dc
+.container2 {
+  background-color: lightgrey
 }
 
 .align-items-center {
